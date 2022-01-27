@@ -25,6 +25,6 @@ My name is Michael, and I have a passion for solving problems. After working as 
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdesanker&layout=compact&theme=dark&hide_border=true&hide=pug,ejs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdesanker&layout=compact&theme=react&hide_border=true&hide=pug,ejs)
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdesanker&show_icons=true&theme=react&&hide_border=true&include_all_commits=true)
