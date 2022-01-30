@@ -1,4 +1,4 @@
-My name is Michael, and I have a passion for solving problems. After working as a research chemist for several years, I have developed a love for programming and learning how it can be used to solve real-life problems.
+My name is Michael, and I have a passion for solving problems, building things, and learning. After working as a research chemist for several years, I have developed a love for programming and am thoroughly enjoying learning about how it can be used to solve real-life problems.
 
 [![Linkedin: Michael](https://img.shields.io/badge/Michael-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeldesanker/)
 
@@ -6,7 +6,7 @@ My name is Michael, and I have a passion for solving problems. After working as 
 
 - I am currently working on learning as much as I can about web development
 - I am currently learning test driven development (TDD)
-- Ask me about web development, chemistry, boxing
+- Ask me about web development, chemistry, boxing, recycling
 
 
 ### Tools
