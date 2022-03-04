@@ -1,4 +1,4 @@
-My name is Michael, and I have a passion for solving problems, building things, and learning. After working as a research chemist for several years, I have realized that I have a love for programming. The similarities between the scientific method and software development make programming feel like a new tool I can use to solve problems around me.
+My name is Michael, and I have a passion for solving problems, building things, and learning. After working as a research chemist for several years, I have realized that I have a love for programming. The similarities between the scientific method and software development process make programming feel like a new tool I can use to solve problems around me.
 
 I am constantly seeking opportunities to learn new concepts, technologies, and tools that I can use to solve real world problems.
 
@@ -19,6 +19,7 @@ I am constantly seeking opportunities to learn new concepts, technologies, and t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -28,6 +29,6 @@ I am constantly seeking opportunities to learn new concepts, technologies, and t
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdesanker&layout=compact&theme=react&hide_border=true&hide=pug,ejs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdesanker&layout=compact&theme=react&hide_border=true&hide=pug,ejs,procfile)
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdesanker&show_icons=true&theme=react&&hide_border=true&include_all_commits=true)
